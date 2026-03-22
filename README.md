@@ -36,7 +36,7 @@ The patterns are categorized into the three classic groups. This list is updated
 *   [Adapter](#) - *Coming soon...*
 
 ### 🧠 Behavioral Patterns
-*   [Observer](./behavioral/observer-game-notification/src/main/java/) - *Notify through a simplified interface to a List of Concretes observers.*
+*   [Observer](./behavioral/observer-game-notification/) - *Notify through a simplified interface to a List of Concretes observers.*
 *   [Strategy](#) - *Coming soon...*
 
 ---
