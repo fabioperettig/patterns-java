@@ -2,8 +2,6 @@
 
 This repository serves as a personal laboratory and reference guide for implementing **Design Patterns in Java**. The goal is to document the journey of mastering software architecture, moving from theoretical concepts to hands-on implementations.
 
----
-
 ## 📌 Project Overview
 
 This is a long-term project focused on building a robust catalog of patterns. The implementations are a mix of:
@@ -24,31 +22,22 @@ The patterns are categorized into the three classic groups. This list is updated
 └── Behavioral
     └──observer-game-notification;
 ````
+<br>
 
-## 🗂️ Index of Patterns
+## 📖 Check the index
 
 ### 🏗️ Creational Patterns
-*   [Singleton](./creational/singleton-study/src/main/java/) - *Ensures a class has only one instance.*
+*   [Singleton](./creational/singleton-study/src/main/java/) - *First Study*
 *   [Factory Method](#) - *Coming soon...*
 
 ### 🧱 Structural Patterns
-*   [Facade](./structural/facade-dwarven-mine/src/main/java/) - *Provides a simplified interface to a complex library.*
+*   [Facade](./structural/facade-dwarven-mine/src/main/java/) - *Dwarven Mine*
 *   [Adapter](#) - *Coming soon...*
 
 ### 🧠 Behavioral Patterns
-*   [Observer](./behavioral/observer-game-notification/) - *Notify through a simplified interface to a List of Concretes observers.*
+*   [Observer](./behavioral/observer-game-notification/) - *Game notification*
 *   [Strategy](#) - *Coming soon...*
 
 ---
-
-## 📂 Structure
-
-The project is organized by pattern type for easy navigation:
-
-```text
-src/
-└── com/
-    └── fabioperettig/
-        ├── creational/     # Object creation mechanisms
-        ├── structural/     # Assembling entities into larger structures
-        └── behavioral/     # Communication between objects
+<br>
+<b>@Author</b> Fabio Peretti Guimarães | Since March 2026
