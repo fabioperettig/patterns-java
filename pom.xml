@@ -12,6 +12,7 @@
     <modules>
         <module>creational/singleton-study</module>
         <module>structural/facade-dwarven-mine</module>
+        <module>behavioral/observer-game-notification</module>
     </modules>
 
     <properties>
