@@ -22,6 +22,7 @@ The patterns are categorized into the three classic groups. This list is updated
 │   └──facade-dwarven-mine;
 │
 └── Behavioral
+    └──observer-game-notification;
 ````
 
 ## 🗂️ Index of Patterns
@@ -35,6 +36,7 @@ The patterns are categorized into the three classic groups. This list is updated
 *   [Adapter](#) - *Coming soon...*
 
 ### 🧠 Behavioral Patterns
+*   [Observer](./behavioral/observer-game-notification/src/main/java/) - *Notify through a simplified interface to a List of Concretes observers.*
 *   [Strategy](#) - *Coming soon...*
 
 ---
