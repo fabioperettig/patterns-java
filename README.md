@@ -27,11 +27,11 @@ The patterns are categorized into the three classic groups. This list is updated
 ## 🗂️ Index of Patterns
 
 ### 🏗️ Creational Patterns
-*   [Singleton](./creational/singleton-study/src/main/java) - *Ensures a class has only one instance.*
+*   [Singleton](./creational/singleton-study/src/main/java/) - *Ensures a class has only one instance.*
 *   [Factory Method](#) - *Coming soon...*
 
 ### 🧱 Structural Patterns
-*   [Facade](./src/com/fabioperettig/structural/facade) - *Provides a simplified interface to a complex library.*
+*   [Facade](./structural/facade-dwarven-mine/src/main/java/) - *Provides a simplified interface to a complex library.*
 *   [Adapter](#) - *Coming soon...*
 
 ### 🧠 Behavioral Patterns
